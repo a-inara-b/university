@@ -1,4 +1,4 @@
-package Index
+// package Index
 
 func FirstOccur(arr []float64, num float64) int {
 	for i := 0; i < len(arr); i++ {
